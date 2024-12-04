@@ -1,0 +1,22 @@
+{
+  "name": "main",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 7010",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.14",
+    "qiankun": "^2.10.16",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.1"
+  }
+}
